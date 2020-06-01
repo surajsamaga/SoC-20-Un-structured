@@ -2,6 +2,8 @@
 
 This is a project I have undertaken as a part of Seasons of Code 2020, organised by the Web and Coding Club, IIT Bombay.
 
+Find original the project repository [here](https://github.com/TheSmilingSky/SOC-20-Un-structured/tree/master).
+
 ![](/cover.png)
 ## Project Description
 
