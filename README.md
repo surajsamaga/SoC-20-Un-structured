@@ -2,7 +2,7 @@
 
 This is a project I have undertaken as a part of Seasons of Code 2020, organised by the Web and Coding Club, IIT Bombay.
 
-Find original the project repository [here](https://github.com/TheSmilingSky/SOC-20-Un-structured/tree/master).
+Find the original problem statement [here](https://github.com/TheSmilingSky/SOC-20-Un-structured/tree/master).
 
 ![](/cover.png)
 ## Project Description
@@ -55,7 +55,7 @@ The text recognition process can be summarized as :
 
 5. Use the above model to make predictions and append predicted labels to the list of dictionaries 
 
-### Comments on the text recognition model:
+#### To Do:
 
 - [x] Apply distortion, skew, and blur while generating text
 - [ ] Add background, foreground and border coloring
